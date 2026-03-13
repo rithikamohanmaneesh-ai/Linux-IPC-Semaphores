@@ -28,12 +28,18 @@ Execute the C Program for the desired output.
 ## OUTPUT
 $ ./sem.o 
 
+<<<<<<< HEAD
 
 
 $ ipcs
 
 
 
+=======
+![image](<image/Screenshot at 2026-03-13 18-42-36.png>)
+$ ipcs
+![image](<image/Screenshot at 2026-03-13 18-43-22.png>)
+>>>>>>> 30e514e (success)
 
 
 
